@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
  "cells": [
   {
@@ -40,3 +41,7 @@
  "nbformat": 4,
  "nbformat_minor": 5
 }
+=======
+# DataScience-internship
+I’m excited about Data Science and eager to learn by working on real projects. I approach challenges with patience, stay curious, and enjoy picking up new skills. I look forward to contributing and growing through this internship experience.
+>>>>>>> 19129b599951064fec384b108d4a9ee5c41e6d5c
